@@ -1,0 +1,6 @@
+[submodule "o1"]
+	path = o1
+	url = https://github.com/NIS-ReactWebDev/o1
+[submodule "o2"]
+	path = o2
+	url = https://github.com/NIS-ReactWebDev/o2
